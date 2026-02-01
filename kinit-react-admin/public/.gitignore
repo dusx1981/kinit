@@ -1,0 +1,9 @@
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.svg
+*.ico
+node_modules/
+dist/
+*.local
